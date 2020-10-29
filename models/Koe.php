@@ -17,12 +17,14 @@ class Koe extends ZichtbaarDier implements Dier
 
     public function maakGeluid(): string
     {
-        return "Boehhhhhhhhh";
+        return "<audio autoplay='true' style='display:none;'>
+            <source src='audio/audioKoe.wav' type='audio/wav'>
+          </audio>";
     }
+
 
     public function getNaam()
     {
         return $this->naam;
     }
 }
-?>
