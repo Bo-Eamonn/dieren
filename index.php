@@ -18,12 +18,24 @@
     }
 
     ?>
-<!doctype html>
-    <html>
-        <body>
-            <form method="post">
-                <input type="text" name="dier"/>
-                <input type="submit" value="klikme"/>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dieren</title>
+</head>
+<body>
+<form method="post">
+                <input type="radio" name="dier" value="Paard">
+                <label for="male">Paard</label><br>
+                <input type="radio" name="dier" value="Schaap">
+                <label for="male">Schaap</label><br>
+                <input type="radio" name="dier" value="Geit">
+                <label for="male">Geit</label><br>
+                <input type="radio" name="dier" value="Koe">
+                <label for="male">Koe</label><br>
+                <input type="submit" value="klik me"/>
             </form>
-        </body>
-    </html>
+</body>
+</html>
