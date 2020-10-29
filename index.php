@@ -23,10 +23,11 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/style.css">
     <title>Dieren</title>
 </head>
 <body>
-<form method="post">
+<form id="container" method="post">
                 <input type="radio" name="dier" value="Paard">
                 <label for="male">Paard</label><br>
                 <input type="radio" name="dier" value="Schaap">
