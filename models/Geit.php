@@ -12,3 +12,4 @@ class Geit extends ZichtbaarDier implements Dier
         return "BEEEEEEEHHHHH";
     }
 }
+?>

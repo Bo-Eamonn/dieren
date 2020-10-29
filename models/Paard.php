@@ -12,3 +12,4 @@ class Paard extends ZichtbaarDier implements Dier
         return "HINNNNNIIIKK";
     }
 }
+?>

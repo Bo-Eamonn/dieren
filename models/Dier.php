@@ -8,3 +8,4 @@ interface Dier
 {
     public function maakGeluid():string;
 }
+?>

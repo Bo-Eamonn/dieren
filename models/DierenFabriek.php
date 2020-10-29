@@ -11,3 +11,4 @@ class DierenFabriek
         return new $klassenaam();
     }
 }
+?>

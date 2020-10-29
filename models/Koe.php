@@ -25,3 +25,4 @@ class Koe extends ZichtbaarDier implements Dier
         return $this->naam;
     }
 }
+?>

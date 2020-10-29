@@ -12,3 +12,4 @@ class Schaap extends ZichtbaarDier implements Dier
         return "BAAAAAAAHHHHHH";
     }
 }
+?>
