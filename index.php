@@ -29,13 +29,13 @@
 <body>
 <form id="container" method="post">
                 <input type="radio" name="dier" value="Paard">
-                <label for="male">Paard</label><br>
+                <label for="Paard">Paard</label><br>
                 <input type="radio" name="dier" value="Schaap">
-                <label for="male">Schaap</label><br>
+                <label for="Schaap">Schaap</label><br>
                 <input type="radio" name="dier" value="Geit">
-                <label for="male">Geit</label><br>
+                <label for="Geit">Geit</label><br>
                 <input type="radio" name="dier" value="Koe">
-                <label for="male">Koe</label><br>
+                <label for="Koe">Koe</label><br>
                 <input type="submit" value="klik me"/>
             </form>
 </body>
