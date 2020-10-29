@@ -9,7 +9,7 @@ class Schaap extends ZichtbaarDier implements Dier
 
     public function maakGeluid(): string
     {
-        return "<audio autoplay='true' style='display:none;'>
+        return "Schaap geluiden" ."<audio autoplay='true' loop style='display:none;'>
             <source src='audio/audioSchaap.wav' type='audio/wav'>
           </audio>";
     }

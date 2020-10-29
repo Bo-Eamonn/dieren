@@ -9,7 +9,7 @@ class Geit extends ZichtbaarDier implements Dier
 
     public function maakGeluid(): string
     {
-        return"<audio autoplay='true' style='display:none;'>
+        return "Geit geluiden"."<audio autoplay='true' loop style='display:none;'>
             <source src='audio/audioGeit.wav' type='audio/wav'>
           </audio>";
     }
