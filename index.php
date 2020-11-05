@@ -5,15 +5,13 @@
     {
         include __NAMESPACE__ .$class.'.php';
     }
-    
-    $view = new \views\DierenView();
-    
-    if(!empty($_POST['dier'])) {
-        $bijdrage = $_POST['dier'];
-        $fabriek = new models\DierenFabriek();
-        $dier = $fabriek->maakDier($bijdrage);
-        $view->toon($dier);
-    }
-    else{
-        $view->vraag();
-    }
+
+    if(isset($_REQUEST['controller'])){
+        $control = $_POST['controller'];
+        $controllerFullName = "controls\\".$control."Controller";
+    }else{
+        $controllerFullName = "controls\\BezoekerController";
+     }
+
+    $controller = new $controllerFullName();
+    $controller->voeruit();

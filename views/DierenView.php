@@ -24,6 +24,8 @@ class DierenView
         {$dier->maakGeluid()}
 </p>
 <form id="container" method="post">
+                <input type="hidden" name="controller" value="Bezoeker">
+                <input type="hidden" name="actie" value="toon">
                 <input type="radio" name="dier" value="Paard">
                 <label for="Paard">Paard</label><br>
                 <input type="radio" name="dier" value="Schaap">
@@ -53,6 +55,8 @@ EOT;
         Wel dier wil je horen?
 </p>
 <form id="container" method="post">
+                <input type="hidden" name="controller" value="Bezoeker">
+                <input type="hidden" name="actie" value="toon">
                 <input type="radio" name="dier" value="Paard">
                 <label for="Paard">Paard</label><br>
                 <input type="radio" name="dier" value="Schaap">
