@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="69e50eb6-758b-4599-b135-b59c95e496e3" name="Default Changelist" comment="" />
+    <list default="true" id="69e50eb6-758b-4599-b135-b59c95e496e3" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/DierenFabriek.php" beforeDir="false" afterPath="$PROJECT_DIR$/models/DierenFabriek.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,7 +14,13 @@
   <component name="ComposerSettings">
     <execution />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1jXpLnczXtvMfnqAY5uJVl2so2s" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -19,6 +29,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="php.override.implement.member.chooser.php.doc" value="NONE" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -30,7 +41,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1603960237754</updated>
-      <workItem from="1603960239171" duration="4450000" />
+      <workItem from="1603960239171" duration="11664000" />
+      <workItem from="1604562795027" duration="2376000" />
     </task>
     <servers />
   </component>
@@ -38,14 +50,18 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="707" y="322" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1603987678164">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="707" y="322" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1603987678164" />
     <state x="1245" y="205" key="#com.intellij.ide.util.MemberChooser" timestamp="1603963417904">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1245" y="205" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1603963417904" />
-    <state x="1268" y="246" key="NewPhpClassDialog" timestamp="1603963176284">
+    <state x="1268" y="246" key="NewPhpClassDialog" timestamp="1604564857647">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1268" y="246" key="NewPhpClassDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1603963176284" />
+    <state x="1268" y="246" key="NewPhpClassDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1604564857647" />
     <state x="1275" y="447" key="NewPhpFileDialog" timestamp="1603960277788">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
