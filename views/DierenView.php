@@ -26,13 +26,13 @@ class DierenView
 <form id="container" method="post">
                 <input type="hidden" name="controller" value="Bezoeker">
                 <input type="hidden" name="actie" value="toon">
-                <input type="radio" name="dier" value="Paard">
+                <input type="radio" name="dier" value="Paard" id="Paard">
                 <label for="Paard">Paard</label><br>
-                <input type="radio" name="dier" value="Schaap">
+                <input type="radio" name="dier" value="Schaap" id="Schaap">
                 <label for="Schaap">Schaap</label><br>
-                <input type="radio" name="dier" value="Geit">
+                <input type="radio" name="dier" value="Geit" id="Geit">
                 <label for="Geit">Geit</label><br>
-                <input type="radio" name="dier" value="Koe">
+                <input type="radio" name="dier" value="Koe" id="Koe">
                 <label for="Koe">Koe</label><br>
                 <input type="submit" value="klik me"/>
             </form>
@@ -57,13 +57,13 @@ EOT;
 <form id="container" method="post">
                 <input type="hidden" name="controller" value="Bezoeker">
                 <input type="hidden" name="actie" value="toon">
-                <input type="radio" name="dier" value="Paard">
+                <input type="radio" name="dier" value="Paard" id="Paard">
                 <label for="Paard">Paard</label><br>
-                <input type="radio" name="dier" value="Schaap">
+                <input type="radio" name="dier" value="Schaap" id="Schaap">
                 <label for="Schaap">Schaap</label><br>
-                <input type="radio" name="dier" value="Geit">
+                <input type="radio" name="dier" value="Geit" id="Geit">
                 <label for="Geit">Geit</label><br>
-                <input type="radio" name="dier" value="Koe">
+                <input type="radio" name="dier" value="Koe" id="Koe">
                 <label for="Koe">Koe</label><br>
                 <input type="submit" value="klik me"/>
             </form>

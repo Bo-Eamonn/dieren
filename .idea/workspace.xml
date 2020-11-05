@@ -4,8 +4,6 @@
     <list default="true" id="69e50eb6-758b-4599-b135-b59c95e496e3" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/controls/BezoekerController.php" beforeDir="false" afterPath="$PROJECT_DIR$/controls/BezoekerController.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/models/Koe.php" beforeDir="false" afterPath="$PROJECT_DIR$/models/Koe.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/views/DierenView.php" beforeDir="false" afterPath="$PROJECT_DIR$/views/DierenView.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -44,7 +42,8 @@
       <option name="presentableId" value="Default" />
       <updated>1603960237754</updated>
       <workItem from="1603960239171" duration="11664000" />
-      <workItem from="1604562795027" duration="5678000" />
+      <workItem from="1604562795027" duration="6646000" />
+      <workItem from="1604570855261" duration="17000" />
     </task>
     <servers />
   </component>

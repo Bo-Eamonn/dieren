@@ -30,8 +30,7 @@ class BezoekerController
     public function voeruit():void{
         if(isset($_REQUEST['actie'])){
             $taak = $_REQUEST['actie'];
-            $opdracht = "Action".$taak;
-            echo $opdracht;
+            $this->toonAction();
 
         }
         else{
